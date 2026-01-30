@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#90A19D</color>
+    <color name="black_grey">#363432</color>
+    <color name="white_grey">#B4D5E0</color>
+
+    <color name="blanco_celda">#7AB8BF</color>
+    <color name="negro_celda">#025159</color>
+
+    <color name="blanco_celda_marcado">#BB7AB8BF</color>
+    <color name="negro_celda_marcado">#BB025159</color>
+
+
+    <color name="light_blue">#196774</color>
+    <color name="select_blue">#3E848C</color>
+    <color name="possible_move">#A67458</color>
+
+
+    <color name="transparent">#88B4D5E0</color>
+    <color name="transparent0">#11B4D5E0</color>
+
+
+    <color name="azul_oscuro">#16232E</color>
+    <color name="verde_oscuro">#164C45</color>
+    <color name="naranja">#CC8D1A</color>
+    <color name="amarillo">#E3C75F</color>
+    <color name="verde_claro">#BDA523</color>
+
+
+    <color name="my_light_primaryContainer">#C2BB00</color>
+    <color name="my_light_onPrimaryContainer">#E1523D</color>
+    <color name="my_light_secondary">#ED8B16</color>
+    <color name="red_orange">#EF6024</color>
+
+</resources>
